@@ -1,11 +1,3 @@
-
-
-/**
- * You can edit, run, and share this code.
- * play.kotlinlang.org
- */
-
-
 fun main() {
     val numbers:Array<Int> = arrayOf(1,2,3,4,5,6,7,8,9,0)
     val HandType:String = "right"
